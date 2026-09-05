@@ -1,9 +1,13 @@
-# Hi, I'm Richard
+# Hey, I'm Richard 👋
 
-I build tools for research and everyday work, including macOS apps and tools for AI agents.
+🧪 Research · 🍎 macOS · 🤖 AI tools
 
-### Projects
+I make apps and tools for working with papers, agents, and the everyday bits in between.
 
-- **[Quotakin](https://github.com/richarddemann/quotakin)** — A macOS menu bar app for tracking Claude and Codex usage and limits.
-- **[OpenPaper Relay](https://github.com/richarddemann/openpaper-relay)** — Find and download research papers for AI agents, with checks against the requested paper's metadata.
-- **[SiteShell](https://github.com/richarddemann/siteshell-macos)** — Turn a website or local web service into a focused macOS app.
+### A few things I've built
+
+🐾 **[Quotakin](https://github.com/richarddemann/quotakin)** — A little menu bar companion that keeps an eye on your Claude and Codex limits.
+
+📚 **[OpenPaper Relay](https://github.com/richarddemann/openpaper-relay)** — Give your agent a paper to find. Get back a PDF it can read.
+
+🐚 **[SiteShell](https://github.com/richarddemann/siteshell-macos)** — Give a website its own little home on your Mac. Works with local web services, too.
